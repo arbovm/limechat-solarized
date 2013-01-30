@@ -6,7 +6,7 @@ html {
 }
 body {}
 
-.url { color: #d33682; } /* magenta */
+.url { color: #859900; }   /* green */
 .address {}
 .highlight {
   /* font-size: 160%; */
